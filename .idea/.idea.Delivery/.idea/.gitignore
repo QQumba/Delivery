@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Delivery.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\study\4\kis\Delivery\.idea\.idea.Delivery\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

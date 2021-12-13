@@ -1,0 +1,12 @@
+C:\study\4\kis\Delivery\Delivery.DataAccess\bin\Debug\netcoreapp3.1\Delivery.DataAccess.deps.json
+C:\study\4\kis\Delivery\Delivery.DataAccess\bin\Debug\netcoreapp3.1\Delivery.DataAccess.dll
+C:\study\4\kis\Delivery\Delivery.DataAccess\bin\Debug\netcoreapp3.1\Delivery.DataAccess.pdb
+C:\study\4\kis\Delivery\Delivery.DataAccess\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\study\4\kis\Delivery\Delivery.DataAccess\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.csprojAssemblyReference.cache
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.AssemblyInfoInputs.cache
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.AssemblyInfo.cs
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.csproj.CoreCompileInputs.cache
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.csproj.CopyComplete
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.dll
+C:\study\4\kis\Delivery\Delivery.DataAccess\obj\Debug\netcoreapp3.1\Delivery.DataAccess.pdb
